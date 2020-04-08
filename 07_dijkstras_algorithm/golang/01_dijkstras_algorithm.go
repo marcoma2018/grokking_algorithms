@@ -11,7 +11,7 @@ var parents map[string]string
 var processed []string
 
 func main() {
-	// the graph
+	// the graph mqjmqjmqj
 	graph = make(map[string]map[string]float64)
 	graph["start"] = make(map[string]float64)
 	graph["start"]["a"] = 6
