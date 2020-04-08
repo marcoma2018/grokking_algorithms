@@ -32,7 +32,7 @@ func main() {
 	costs["b"] = 2
 	costs["fin"] = math.Inf(1)
 
-	// the parents table
+	// the parents table, mqjmqj
 	parents = make(map[string]string)
 	parents["a"] = "start"
 	parents["b"] = "start"
